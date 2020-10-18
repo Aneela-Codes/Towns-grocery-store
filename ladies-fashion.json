@@ -1,0 +1,26 @@
+{
+    "categories_ref_id": "Lsdies Fashion",
+    "imageFolder" : "images",
+    "products": [
+        {
+            "name": "Green Lawn",
+            "price": "Rs. 3000",
+            "image": "3-pcs-stylish-suit.jpg"
+        },
+        {
+            "name": "black suit",
+            "price": "Rs. 4000",
+            "image": "3pcs-lawn-suit.jpg"
+        },
+        {
+            "name": "full suit",
+            "price": "Rs. 2500",
+            "image": "Beautiful-stitched-dress.jpg"
+        },
+        {
+            "name": "Green dress",
+            "price": "Rs. 2900",
+            "image": "full-sleves-2pcs.jpg"
+        }
+    ]
+}

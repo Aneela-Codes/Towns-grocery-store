@@ -1,0 +1,26 @@
+{
+    "categories_ref_id": "Lsdies Fashion",
+    "imageFolder" : "images",
+    "products": [
+        {
+            "name": "Red Checks",
+            "price": "Rs. 1700",
+            "image": "check-shirt-Casual-Young.jpg"
+        },
+        {
+            "name": "blue",
+            "price": "Rs. 2000",
+            "image": "fit-premium-cotton-suit.jpg"
+        },
+        {
+            "name": "light blue",
+            "price": "Rs. 1699",
+            "image": "men-light-blue-shirt.jpg"
+        },
+        {
+            "name": "Off white",
+            "price": "Rs. 2999",
+            "image": "popular-off-white-shirt.jpg"
+        }
+    ]
+}
